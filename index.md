@@ -1,8 +1,3 @@
----
-layout: home
-title: Home
----
-
 <!-- Header Section -->
 <div style="text-align: center; padding: 50px; background: #0f2027; color: white; border-radius: 10px;">
   <h1 style="font-size: 3em; font-family: 'Arial', sans-serif;">Welcome to My AWS Journey</h1>
