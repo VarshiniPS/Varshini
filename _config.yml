@@ -1,7 +1,6 @@
 url: "https://varshinips.github.io"
 theme: minima
 
-
 # Custom assets
 sass:
   style: compressed
