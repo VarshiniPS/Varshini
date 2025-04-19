@@ -1,6 +1,3 @@
-title: My AWS Journey
-description: Documenting my learning path through AWS as a Node.js Engineer.
-baseurl: "" # Leave empty unless it's a subpath
 url: "https://varshinips.github.io"
 theme: minima
 
