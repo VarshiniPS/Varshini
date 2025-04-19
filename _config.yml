@@ -1,4 +1,8 @@
-url: "https://varshinips.github.io/Varshini"
+title: My Blog
+description: A blog using Jekyll and GitHub Pages
+baseurl: "" # Leave empty if it’s your user or org site
+url: "https://varshinips.github.io"  # Your GitHub username
+theme: minima  # The default theme for GitHub Pages
 
 # Custom assets
 sass:
