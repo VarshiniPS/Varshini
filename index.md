@@ -20,7 +20,7 @@ title: Home
 <section id="latest-topics" style="padding: 40px 20px; text-align: center; background-color: #fff;">
   <h2 style="font-size: 2em; color: #203a43;">Latest Topics</h2>
   <ul style="list-style: none; padding: 0; font-size: 1.1em;">
-    <li><a href="understanding-iam.html" style="color: #00c6ff; text-decoration: none;">Understanding IAM: AWS Identity & Access Management</a></li>
+    <li><a href="_posts/2025-04-19-understanding-iam.md" style="color: #00c6ff; text-decoration: none;">Understanding IAM: AWS Identity & Access Management</a></li>
     <li><a href="s3.html" style="color: #00c6ff; text-decoration: none;">AWS S3: Object Storage Service</a></li>
     <li><a href="lambda.html" style="color: #00c6ff; text-decoration: none;">AWS Lambda: Serverless Computing</a></li>
   </ul>
